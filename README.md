@@ -1,5 +1,3 @@
-# Instructions
-
 ## Task
 
 You've learned how to fetch data in React.
